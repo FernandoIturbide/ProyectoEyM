@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: WAPYJ
+Main-Clas: Interfaz1
+X-COMMENT: Curso Java
